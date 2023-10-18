@@ -51,7 +51,7 @@ modules:
   type: html5
   path: deploy_myfioriapp
   build-parameters:
-    build-result: deploy_myfioriapp/mta.yaml
+    build-result: dist
     builder: custom
     commands:
     - npm install
