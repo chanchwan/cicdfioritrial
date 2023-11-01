@@ -1,5 +1,5 @@
 ## Application Details
-|               | test 2
+|               | test new
 | ------------- |
 |**Generation Date and Time**<br>Wed Oct 18 2023 03:57:46 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori-elements|
